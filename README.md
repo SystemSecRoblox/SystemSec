@@ -21,7 +21,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SystemSecRoblox/Syste
 
 ## 🛑 Security
 
-The script is designed to be 100% secure from detection by anti-cheat systems. However, as a best practice when using any security tools, we recommend testing on an alternative account first if you have concerns.
+The script is designed to be 100% secure. However, as a best practice when using any scripts, we recommend testing on an alternative account first if you have concerns.
 
 ---
 
